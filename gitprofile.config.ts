@@ -103,14 +103,14 @@ const CONFIG = {
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
-    respectPrefersColorScheme: false,
 
     // Display the ring in Profile picture
     displayAvatarRing: true,
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'Dark',
+      'light',
+      'dark',
     ],
 
     // Custom theme, applied to `procyon` theme
