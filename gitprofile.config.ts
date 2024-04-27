@@ -12,8 +12,8 @@ const CONFIG = {
   base: '/SobolevVJ/',
   projects: {
     github: {
-      display: true, // Display GitHub projects?
-      header: 'Github Projects',
+      display: false, // Display GitHub projects?
+      header: 'ГитХаб прокты',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
@@ -29,7 +29,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'Мои проекты',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -78,13 +78,6 @@ const CONFIG = {
     'Minecraft'
   ],
   experiences: [
-    {
-      company: 'VJ Project',
-      position: '',
-      from: 'Февраль 2023',
-      to: 'Present',
-      companyLink: 'https://t.me/VJProject',
-    },
   ],
   certifications: [
   ],
@@ -106,7 +99,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'Dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
