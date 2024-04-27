@@ -35,7 +35,7 @@ const CONFIG = {
         {
           title: 'TIMECASH',
           description:
-            'Телеграм инровой бот с легкой механикой и без этих навясчивых донатерских ботов',
+            'Телеграм игровой бот с легкой механикой и без этих навясчивых донатерских ботов',
           imageUrl:
             'http://telegra.ph//file/1ae7ecc7f136817529755.jpg',
           link: 'https://t.me/TimeCashGameBot',
@@ -110,8 +110,6 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
-      'light',
-      'dark',
     ],
 
     // Custom theme, applied to `procyon` theme
