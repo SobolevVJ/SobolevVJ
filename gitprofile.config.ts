@@ -110,6 +110,7 @@ const CONFIG = {
 
     // Available themes. To remove any theme, exclude from here.
     themes: [
+      'Dark',
     ],
 
     // Custom theme, applied to `procyon` theme
