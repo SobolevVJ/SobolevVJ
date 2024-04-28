@@ -40,6 +40,14 @@ const CONFIG = {
             'http://telegra.ph//file/1ae7ecc7f136817529755.jpg',
           link: 'https://t.me/TimeCashGameBot',
         },
+        {
+          title: 'NEMO',
+          description:
+            'Боссы, Скины, бои, казик, и еще больше команд - игровой бот',
+          imageUrl:
+            'http://telegra.ph//file/f0929f6ec6d58a286728f.jpg',
+          link: 'https://t.me/VJProject',
+        },
       ],
     },
   },
