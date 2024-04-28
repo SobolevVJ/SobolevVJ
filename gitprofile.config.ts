@@ -40,37 +40,6 @@ const CONFIG = {
             'http://telegra.ph//file/1ae7ecc7f136817529755.jpg',
           link: 'https://t.me/TimeCashGameBot',
         },
-        {
-          title: 'NEMO',
-          description:
-            'Боссы, Скины, бои, казик, и еще больше команд - игровой бот',
-          imageUrl:
-            'http://telegra.ph//file/f0929f6ec6d58a286728f.jpg',
-          link: 'https://t.me/VJProject',
-        },
-        {
-          title: 'FESK',
-          description:
-            'Ну что сказать старая версия Nemo написаная на aiogram2-3',
-          imageUrl:
-            'http://telegra.ph//file/89c265fbb598b7677c1f9.jpg',
-          link: 'https://t.me/VJProject',
-        },
-        {
-          title: 'CatGame',
-          description:
-            'Мяу, Мяу ботик которого надо кормить, есть скинчеки и инвентарь - и все)',
-          imageUrl:
-            'http://telegra.ph//file/e39ff0fd4847231a2c0ea.jpg',
-          link: 'https://t.me/VJProject',
-        },
-          title: 'BSG',
-          description:
-            'ОООО дофига команд, ну не прям так много но они все проработаны! - игровой бот',
-          imageUrl:
-            'http://telegra.ph//file/5888c42bfa0210e75fc28.jpg',
-          link: 'https://t.me/VJProject',
-        },
       ],
     },
   },
