@@ -106,7 +106,7 @@ const CONFIG = {
     'Python',
     'Aiogram',
     'SQLite',
-    'Minecraft'
+    'Minecraft',
   ],
   experiences: [
   ],
