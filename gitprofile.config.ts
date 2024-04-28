@@ -41,14 +41,6 @@ const CONFIG = {
           link: 'https://t.me/TimeCashGameBot',
         },
         {
-          title: 'NEMO',
-          description:
-            'Боссы, Скины, бои, казик, и еще больше команд - игровой бот',
-          imageUrl:
-            'http://telegra.ph//file/f0929f6ec6d58a286728f.jpg',
-          link: 'https://t.me/VJProject',
-        },
-        {
           title: 'CatGame',
           description:
             'Мяу, Мяу ботик которого надо кормить, есть скинчеки и инвентарь - и все)',
@@ -61,6 +53,14 @@ const CONFIG = {
             'ОООО дофига команд, ну не прям так много но они все проработаны! - игровой бот',
           imageUrl:
             'http://telegra.ph//file/5888c42bfa0210e75fc28.jpg',
+          link: 'https://t.me/VJProject',
+        },
+        {
+          title: 'NEMO',
+          description:
+            'Боссы, Скины, бои, казик, и еще больше команд - игровой бот',
+          imageUrl:
+            'http://telegra.ph//file/f0929f6ec6d58a286728f.jpg',
           link: 'https://t.me/VJProject',
         },
       ],
