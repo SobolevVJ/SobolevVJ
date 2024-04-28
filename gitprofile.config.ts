@@ -49,14 +49,6 @@ const CONFIG = {
           link: 'https://t.me/VJProject',
         },
         {
-          title: 'FESK',
-          description:
-            'Ну что сказать старая версия Nemo написаная на aiogram2-3',
-          imageUrl:
-            'http://telegra.ph//file/89c265fbb598b7677c1f9.jpg',
-          link: 'https://t.me/VJProject',
-        },
-        {
           title: 'CatGame',
           description:
             'Мяу, Мяу ботик которого надо кормить, есть скинчеки и инвентарь - и все)',
